@@ -1,1 +1,1 @@
-# ada-blocks-wordpress
+# arxil-blocks-plugin
